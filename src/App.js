@@ -7,7 +7,7 @@ import { uid } from "uid";
 const initialAnimals = [
   {
     id: "mTBErig",
-    name: "Octopus",
+    name: "Octopusi",
     emoji: "🐙",
   },
   {
